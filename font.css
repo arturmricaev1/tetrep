@@ -1,0 +1,15 @@
+/* @font-face {
+    font-family: 'inter';
+    src: url('../front/font/Inter-Italic.otf') format('otf');
+    font-weight: 400;
+    font-style: italic;
+    font-display: swap;
+} */
+@font-face {
+    font-family: 'Inter';
+    src: url('../font/Inter-Medium.woff2') format('woff2');
+    src: url('../font/Inter-Medium.woff2') format('woff2');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
